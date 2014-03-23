@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU 관리</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">불가능</string>
 	<string name="requested">요청됨</string>
 	<string name="current">현재</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">커스텀 롬을 사용 중이시거나, 핸드폰 기종이 진동 측정을
 지원한다고 생각하시면, CPU 데이터를 보내주세요.
 같은 기종 지원을 추가하겠습니다.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">CPU 데이터 보내기</string>
 	<string name="dlg_send_title">…와 함께 CPU 데이터 보내기</string>
 	<string name="menu_prefs">설정</string>

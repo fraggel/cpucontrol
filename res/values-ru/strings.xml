@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Недоступно</string>
 	<string name="requested">Требуется</string>
 	<string name="current">Текущее</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Если у вас нестандартная прошивка или вы уверены,
 что устройство поддерживает смену частоты, отправьте данные
 процессора, чтобы добавить поддержку вашего телефона.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Отправить данные ЦП</string>
 	<string name="dlg_send_title">Отправить данные ЦП с…</string>
 	<string name="menu_prefs">Установки</string>

@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Tidak tersedia</string>
 	<string name="requested">Diminta</string>
 	<string name="current">Sekarang</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Alat anda sudah harus di-root untuk menggunakan aplikasi ini.</string>
 	<string name="dlg_nofs_title">Sepertinya perangkat anda kurang mampu dalam penskalaan frekuensi</string>
 	<string name="dlg_nofs_body">Jika anda menggunakan ROM Custom atau mungkin ponsel anda mendukung penskalaan frekuensi, kirimkan data CPU anda agar didukung</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Kirim data CPU</string>
 	<string name="dlg_send_title">Kirim data CPU dengan..</string>
 	<string name="menu_prefs">Pengaturan</string>

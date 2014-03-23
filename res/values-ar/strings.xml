@@ -3,7 +3,7 @@
 
 	<string name="app_name">التحكم فى عمر البطارية عن طريق سرعة المعالج</string>
 	<string name="app_name_classic">التحكم فى عمر البطارية عن طريق سرعة المعالج الكلاسيكي</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">غير متوفر</string>
 	<string name="requested">طلب</string>
 	<string name="current">حالى</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">فى حالة استخدام روم معدل او لم يكن يكن هاتفك مدعوم
 يرجى ارسال بيانات المعالج 
 لكى نتمكن من دعم هاتفك</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">ارسال معلومات المعالج</string>
 	<string name="dlg_send_title">ارسال معلومات المعالج مع</string>
 	<string name="menu_prefs">الاعدادات</string>

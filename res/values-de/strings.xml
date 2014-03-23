@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nicht verfügbar</string>
 	<string name="requested">Angefordert</string>
 	<string name="current">Aktuell</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Sie benötigen ROOT Rechte, um diese Anwendung verwenden zu können.</string>
 	<string name="dlg_nofs_title">Ihr Gerät scheint die Staffelung der Frequenzen nicht zu unterstützen.</string>
 	<string name="dlg_nofs_body">Wenn Sie der Meinung sind, dass Ihr Telefon die Staffelung der Frequenzen unterstützt oder Sie ein angepasstes ROM verwenden, senden Sie bitte Ihre CPU Daten, um es zukünftig auch zu unterstützen.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">CPU-Daten senden</string>
 	<string name="dlg_send_title">CPU-Daten senden mit…</string>
 	<string name="menu_prefs">Einstellungen</string>

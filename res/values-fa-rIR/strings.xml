@@ -3,7 +3,7 @@
 
 	<string name="app_name">  مدیریت پردازنده</string>
 	<string name="app_name_classic">  مدیریت پردازنده قدیمی</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">غیر قابل دسترس</string>
 	<string name="requested">درخواست شده</string>
 	<string name="current">فعلی</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">شما باید برای استفاده از این برنامه گوشی خود را روت کنید.برای اطلاعات بیشتر به انجمن تخصصی اندروید ایران بروید</string>
 	<string name="dlg_nofs_title">به نظر می آید نمی توان فرکانس دستگاه شما را تغییر داد</string>
 	<string name="dlg_nofs_body"> اگر شما از یک کاستوم رام استفاده می کنید و فکر می کنید که می توانید فرکانس پردازشگر را تغییر دهید ، اطلاعات پردازشگر خود را برای ما ارسال کنید</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">ارسال اطلاعات پردازشگر</string>
 	<string name="dlg_send_title">ارسال اطلاعات با..</string>
 	<string name="menu_prefs">تنظیمات</string>

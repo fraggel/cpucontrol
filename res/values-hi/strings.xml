@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">अनुपलब्ध</string>
 	<string name="requested">अनुरोधित</string>
 	<string name="current">वर्तमान</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Rooted होने पर इस application का उपयोग करना चाहिए</string>
 	
 	
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	
 	
 	

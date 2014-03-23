@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Indisponibil</string>
 	<string name="requested">Solicitat</string>
 	<string name="current">Actuală</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Trebuie să ai telefonul rootat pentru a folosi aplicaţia.</string>
 	<string name="dlg_nofs_title">Telefonul tău pare să nu permită modificarea frecvenţei</string>
 	<string name="dlg_nofs_body">Dacă rulaţi un ROM personalizat sau dacă credeţi că telefonul suportă schimbarea frecvenţei, trimiteţi datele legate de procesor pentru a oferi suport telefonului dvs.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Trimiteţi datele despre procesor</string>
 	<string name="dlg_send_title">Trimiteţi setările despre procesor cu…</string>
 	<string name="menu_prefs">Setări</string>

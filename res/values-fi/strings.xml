@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU ohjaus</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Ei saatavilla</string>
 	<string name="requested">Pyydetty</string>
 	<string name="current">Nykyinen</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Jos käytät custom ROM:ia tai puhelimesi tukee 
 taajuuden skaalausta, lähetä suorittimen tiedot 
 jotta puhelimellesi saadaan tuki.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Lähetä CPU data</string>
 	<string name="dlg_send_title">Lähetä CPU data käyttäen…</string>
 	<string name="menu_prefs">Asetukset</string>

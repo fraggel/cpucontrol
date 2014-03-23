@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU පාලනය</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">ලබාගත නොහැකි</string>
 	<string name="requested">ආරාධිත</string>
 	<string name="current">වත්මන්</string>
@@ -20,7 +20,7 @@
 	
 	
 	
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">ප්‍රොසෙසරයෙ දත්ත යවන්න</string>
 	<string name="dlg_send_title">ප්‍රොසෙසරයෙ දත්ත සමග යවන්න</string>
 	<string name="menu_prefs">පාලන පුවරුව</string>

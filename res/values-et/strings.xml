@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Mitte saadaval</string>
 	<string name="requested">Nõutud</string>
 	<string name="current">Praegune</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Kui te kasutate arendajate ROM-i või te arvate 
 ,et teie telefon toetab protsessori kiirendamist, siis saadke oma CPU andmed ,et me saaksime
 lisada teie telefoni toetavate nimekirja.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Saada CPU andmed</string>
 	<string name="dlg_send_title">Saada CPU andmed koos</string>
 	<string name="menu_prefs">Seaded</string>

@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">No disponible</string>
 	<string name="requested">Sol·licitat</string>
 	<string name="current">Actual</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Si utilitzeu una ROM personalizada o penseu que el vostre telèfon és
 compatible amb l\'escalat de freqüència envieu les dades de la vostra
 CPU per afegir-ne la compatibilitat</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Envia les dades de la CPU</string>
 	<string name="dlg_send_title">Envia les dades de la CPU amb…</string>
 	<string name="menu_prefs">Configuració</string>

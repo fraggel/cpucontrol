@@ -3,7 +3,7 @@
 
 	<string name="app_name">Controlo Simples do CPU</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Indisponível</string>
 	<string name="requested">Seleccionado</string>
 	<string name="current">Actual</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Você precisa de privilégios root para usar esta aplicação.</string>
 	<string name="dlg_nofs_title">Seu telefone parece não ter frequência escalável</string>
 	<string name="dlg_nofs_body">Se está a utilizar uma ROM customizada ou acha que o telefone suporta frequência escalável, envie os dados do CPU para adicionar suporte para o seu telefone.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Enviar dados do CPU</string>
 	<string name="dlg_send_title">Enviar dados do CPU com…</string>
 	<string name="menu_prefs">Definiçoẽs</string>

@@ -1,7 +1,7 @@
 package es.fraggel.cpucontrol.service;
 
 import es.fraggel.cpucontrol.R;
-import es.fraggel.cpucontrol.activity.MainActivity;
+import es.fraggel.cpucontrol.activity.CPUActivity;
 import es.fraggel.cpucontrol.extra.Constants;
 import es.fraggel.cpucontrol.extra.SysUtils;
 
@@ -128,7 +128,7 @@ public class BootService extends Service {
 		File mustShow = new File(Constants.LAUNCHER_ICON_STATUS_SHOW);
 		if (mustShow.exists() || mustHide.exists()) {
 			Log.d(Constants.APP_TAG, "special files detected: show=" + mustShow.exists() + ", hide=" + mustHide.exists());
-			ComponentName componentName = new ComponentName(getApplicationContext(), MainActivity.class);
+			ComponentName componentName = new ComponentName(getApplicationContext(), CPUActivity.class);
 			PackageManager pm = getApplicationContext().getPackageManager();
 			if (mustShow.exists()) {
 				/*

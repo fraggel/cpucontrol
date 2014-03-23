@@ -3,7 +3,7 @@
 
 	<string name="app_name">Kawalan CPU Mudah</string>
 	<string name="app_name_classic">Kawalan CPU Mudah KLASIK</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Tiada untuk pilihan</string>
 	<string name="requested">Permintaan Diterima</string>
 	<string name="current">Semasa</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Jika anda menggunakan ROM custom dan jika anda yakin gadget anda 
 boleh mengubah skala frekuensi, sila hantar data CPU supaya
 aturan boleh ditambah untuk gadget anda.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Hantar data CPU</string>
 	<string name="dlg_send_title">Hantar data CPU dengan…</string>
 	<string name="menu_prefs">Aturan</string>

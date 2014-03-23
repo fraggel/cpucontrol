@@ -3,7 +3,7 @@
 
 	<string name="app_name">cpu kontrolė</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nepasiekiamas</string>
 	<string name="requested">Užklausiama</string>
 	<string name="current">Dabartinis</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Jūs turite turėti root teisės kad naudotis šia programa</string>
 	<string name="dlg_nofs_title">Jūsų prietaisas nepalaiko dažnio reguliavimo</string>
 	
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	
 	
 	<string name="menu_prefs">Nustatymai</string>

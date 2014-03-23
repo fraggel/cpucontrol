@@ -14,37 +14,48 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea332a5-becb-4311-8933-d8445c1825ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/U028952.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cpucontrol.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\cpucontrol\activity\MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\cpucontrol\extra\Constants.java" afterPath="" />
+    <list default="true" id="0ea332a5-becb-4311-8933-d8445c1825ef" name="Default" comment="Initial commit&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/appwidget_bg_pressed.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/appwidget_dark_bg.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/appwidget_dark_bg_focused.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_action_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_action_refresh_inverted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_action_reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_action_reset_inverted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launchercpu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launchercpu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launchercpu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launchercpu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_launchercpu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_menu_reset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_stat_cpu.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi-v11/ic_stat_cpu.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/changelog.xml" afterPath="$PROJECT_DIR$/res/xml/changelog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/main.xml" afterPath="$PROJECT_DIR$/res/menu/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/service/BootService.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/service/BootService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/StatsActivity.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/StatsActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/SysUtils.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/SysUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main_f_buttons.xml" afterPath="$PROJECT_DIR$/res/layout/main_f_buttons.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proguard/mapping.txt" afterPath="$PROJECT_DIR$/proguard/mapping.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-ar/strings.xml" afterPath="$PROJECT_DIR$/res/values-ar/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-ca-rAD/strings.xml" afterPath="$PROJECT_DIR$/res/values-ca-rAD/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-cs/strings.xml" afterPath="$PROJECT_DIR$/res/values-cs/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-da/strings.xml" afterPath="$PROJECT_DIR$/res/values-da/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-de/strings.xml" afterPath="$PROJECT_DIR$/res/values-de/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-el/strings.xml" afterPath="$PROJECT_DIR$/res/values-el/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/res/values-es/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-et/strings.xml" afterPath="$PROJECT_DIR$/res/values-et/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-fa-rIR/strings.xml" afterPath="$PROJECT_DIR$/res/values-fa-rIR/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-fi/strings.xml" afterPath="$PROJECT_DIR$/res/values-fi/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-fr/strings.xml" afterPath="$PROJECT_DIR$/res/values-fr/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-hi/strings.xml" afterPath="$PROJECT_DIR$/res/values-hi/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-hr/strings.xml" afterPath="$PROJECT_DIR$/res/values-hr/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-hu/strings.xml" afterPath="$PROJECT_DIR$/res/values-hu/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-id/strings.xml" afterPath="$PROJECT_DIR$/res/values-id/strings.xml" />
@@ -54,6 +65,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-ko/strings.xml" afterPath="$PROJECT_DIR$/res/values-ko/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-lt/strings.xml" afterPath="$PROJECT_DIR$/res/values-lt/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-lv/strings.xml" afterPath="$PROJECT_DIR$/res/values-lv/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-ms/strings.xml" afterPath="$PROJECT_DIR$/res/values-ms/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-nl/strings.xml" afterPath="$PROJECT_DIR$/res/values-nl/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-no/strings.xml" afterPath="$PROJECT_DIR$/res/values-no/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-pl/strings.xml" afterPath="$PROJECT_DIR$/res/values-pl/strings.xml" />
@@ -71,18 +83,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-uk/strings.xml" afterPath="$PROJECT_DIR$/res/values-uk/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" afterPath="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" afterPath="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\BootReceiver.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/BootReceiver.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\activity\AboutActivity.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/AboutActivity.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\activity\PreferencesActivity.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/PreferencesActivity.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\activity\StatsActivity.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/StatsActivity.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\extra\Frequency.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Frequency.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\extra\PatternReplacerInputFilter.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/PatternReplacerInputFilter.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\extra\Stats.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Stats.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\extra\SysUtils.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/SysUtils.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\extra\Theme.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Theme.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\service\BootService.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/service/BootService.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\service\ShutdownService.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/service/ShutdownService.java" />
-      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\src\it\sineo\android\noFrillsCPUClassic\widget\StatsWidget.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/widget/StatsWidget.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/cpu.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java" afterPath="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/CPUActivity.java" />
+      <change type="MOVED" beforePath="D:\Programacion\androidsuiteworkspace\cpucontrol\res\layout-land\main.xml" afterPath="$PROJECT_DIR$/res/layout-land/cpu.xml" />
     </list>
     <ignored path="cpucontrol.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -148,54 +153,72 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values-el/strings.xml">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="42" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2142">
+            <state line="27" column="28" selection-start="1313" selection-end="1323" vertical-scroll-proportion="-5.8076925" vertical-offset="308" max-vertical-offset="2125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values-fi/strings.xml">
+      <file leaf-file-name="ic_launcher.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ic_launcher.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ic_launcher.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/cpu.xml">
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BootService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/service/BootService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2023">
+            <state line="71" column="38" selection-start="2519" selection-end="2519" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2431">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values-zh-rCN/strings.xml">
+      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="83" selection-start="2979" selection-end="2979" vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1853">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values-zh-rTW/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="81" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="1870">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="changelog.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/xml/changelog.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="46" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="4505">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="3" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
               <folding />
             </state>
           </provider>
@@ -204,11 +227,18 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="292" column="0" selection-start="10871" selection-end="10871" vertical-scroll-proportion="0.18541667" vertical-offset="4518" max-vertical-offset="5984">
+            <state line="28" column="32" selection-start="747" selection-end="747" vertical-scroll-proportion="0.6511628" vertical-offset="196" max-vertical-offset="850">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ic_launchercpu.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ic_launchercpu.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -219,7 +249,16 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Programacion\androidsuiteworkspace\keystorecpu" />
+    <option name="KEY_ALIAS" value="cpucontrol" />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="fraggel" />
+      </list>
+    </option>
     <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -228,8 +267,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/AboutActivity.java" />
         <option value="$PROJECT_DIR$/res/values-es/strings.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java" />
         <option value="$PROJECT_DIR$/res/values-pl/pl-PL/strings.xml" />
         <option value="$PROJECT_DIR$/res/values-tr/tr-TR/strings.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
@@ -241,7 +278,13 @@
         <option value="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" />
         <option value="$PROJECT_DIR$/res/xml/changelog.xml" />
         <option value="$PROJECT_DIR$/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main_f_buttons.xml" />
         <option value="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/CPUActivity.java" />
+        <option value="$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/StatsActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java" />
       </list>
     </option>
   </component>
@@ -277,7 +320,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,6 +375,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpucontrol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="activity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -352,7 +461,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,7 +471,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="reference.settingsdialog.project.gradle" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../keystoretether" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -373,6 +482,19 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="ExportedModule" value="cpucontrol" />
+    <property name="ExportedApkPath" value="D:\Programacion\androidsuiteworkspace\cpucontrol\cpucontrol.apk" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.fraggel.cpucontrol.activity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programacion\androidsuiteworkspace\cpucontrol\res\drawable-hdpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.cpucontrol">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -403,6 +525,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -428,19 +563,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -564,18 +686,19 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2367647" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44705883" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -589,7 +712,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -605,67 +727,13 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/values-ar/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="123" selection-start="3638" selection-end="3753" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="2108">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-ca-rAD/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="121" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="2142">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-el/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="42" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2142">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-fi/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2023">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-zh-rCN/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="83" selection-start="2979" selection-end="2979" vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1853">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-zh-rTW/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="81" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="1870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/xml/changelog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="46" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="4505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proguard-project.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
@@ -675,9 +743,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cpucontrol.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values-ar/strings.xml">
@@ -731,9 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proguard-project.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project.properties">
@@ -745,19 +809,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cpucontrol.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="56" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1275">
-          <folding>
-            <element signature="e#679#705#0" expanded="true" />
-            <element signature="e#799#825#0" expanded="true" />
-            <element signature="e#1947#1973#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -776,28 +834,12 @@
         <state line="22" column="18" selection-start="871" selection-end="871" vertical-scroll-proportion="0.33333334" vertical-offset="235" max-vertical-offset="1989" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="50" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1904" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/widget.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="32" selection-start="425" selection-end="425" vertical-scroll-proportion="-7.48" vertical-offset="0" max-vertical-offset="646" />
       </provider>
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="76" selection-start="2115" selection-end="2131" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1275">
-          <folding>
-            <element signature="e#679#705#0" expanded="true" />
-            <element signature="e#799#825#0" expanded="true" />
-            <element signature="e#1947#1973#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/widget/StatsWidget.java">
@@ -810,11 +852,6 @@
         <state line="22" column="0" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="80" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values-pl/pl-PL/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="34" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1904" />
@@ -823,11 +860,6 @@
     <entry file="file://$PROJECT_DIR$/res/values-tr/tr-TR/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="47" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="147" selection-start="3787" selection-end="3787" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="2125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values-ar/strings.xml">
@@ -860,39 +892,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values-zh-rCN/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="83" selection-start="2979" selection-end="2979" vertical-scroll-proportion="0.0" vertical-offset="966" max-vertical-offset="1853">
+        <state line="65" column="83" selection-start="2977" selection-end="2977" vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1853">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values-zh-rTW/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="81" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.0" vertical-offset="949" max-vertical-offset="1870">
+        <state line="64" column="81" selection-start="3006" selection-end="3006" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proguard-project.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="430">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="430" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cpucontrol.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/menu/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.44827586" vertical-offset="0" max-vertical-offset="493">
-          <folding>
-            <element signature="e#290#315#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="6" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project.properties">
@@ -909,9 +928,151 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/AboutActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="798" selection-end="798" vertical-scroll-proportion="0.039534885" vertical-offset="51" max-vertical-offset="2346">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main_f_buttons.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/CPUActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="35" selection-start="1609" selection-end="1609" vertical-scroll-proportion="-9.576923" vertical-offset="567" max-vertical-offset="5950">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/StatsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="42" selection-start="5092" selection-end="5092" vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="6460">
+          <folding>
+            <element signature="e#4201#4246#0" expanded="true" />
+            <element signature="e#4271#4307#0" expanded="true" />
+            <element signature="e#4754#4799#0" expanded="true" />
+            <element signature="e#4824#4860#0" expanded="true" />
+            <element signature="e#5072#5092#0" expanded="true" />
+            <element signature="e#5483#5528#0" expanded="true" />
+            <element signature="e#5559#5595#0" expanded="true" />
+            <element signature="e#7419#7457#0" expanded="true" />
+            <element signature="e#10826#10862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="1313" selection-end="1323" vertical-scroll-proportion="-5.8076925" vertical-offset="308" max-vertical-offset="2125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/appwidget_dark_bg_clickable.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/widget_preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi-v11/ic_stat_cpu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ic_launchercpu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cpu.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="69" selection-end="69" vertical-scroll-proportion="0.14137214" vertical-offset="0" max-vertical-offset="1904">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/service/BootService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="38" selection-start="2519" selection-end="2519" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/extra/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="43" selection-start="650" selection-end="661" vertical-scroll-proportion="0.58285713" vertical-offset="102" max-vertical-offset="1394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/es/fraggel/cpucontrol/activity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="292" column="0" selection-start="10871" selection-end="10871" vertical-scroll-proportion="0.18541667" vertical-offset="4518" max-vertical-offset="5984">
+        <state line="28" column="32" selection-start="747" selection-end="747" vertical-scroll-proportion="0.6511628" vertical-offset="196" max-vertical-offset="850">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">მიუწვდომელია</string>
 	<string name="requested">მოთხოვნილია</string>
 	<string name="current">მიმდინარე</string>
@@ -23,7 +23,7 @@
 თქვენს ტელეფონს აქვს სიხშირის შეცვლის შესაძლებლობა,
 გამოაგზავნეთ თქვენი CPU-ს მონაცემები მისი მხარდაჭერის
 დასამატებლად.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">CPU-ს მონაცემების გაგზავნა</string>
 	<string name="dlg_send_title">CPU-ს მონაცემების გაგზავნა</string>
 	<string name="menu_prefs">გამართვა</string>

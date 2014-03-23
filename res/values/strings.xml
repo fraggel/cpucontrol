@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU Control</string>
 	<string name="app_name_classic">CPU Control</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Unavailable</string>
 	<string name="requested">Requested</string>
 	<string name="current">Current</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">If you are running a custom ROM or if you think
 		your phone supports frequency scaling, send your CPU data in order to
 		add support for your phone.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Send CPU data</string>
 	<string name="dlg_send_title">Send CPU data with…</string>
 	<string name="menu_prefs">Settings</string>

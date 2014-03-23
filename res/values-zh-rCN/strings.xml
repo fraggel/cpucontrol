@@ -3,7 +3,7 @@
 
 	<string name="app_name">无修饰CPU控制</string>
 	<string name="app_name_classic">简易CPU控制（经典）</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">不可用</string>
 	<string name="requested">已请求</string>
 	<string name="current">当前</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">必须ROOT才能使用该软件.</string>
 	<string name="dlg_nofs_title">您的设备缺少调频功能</string>
 	<string name="dlg_nofs_body">如果你正在使用的是第三方ROM或者你的ROM可以CPU调频，请点击 菜单—发送CPU数据，以便添加对你的手机型号的支持。</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">发送CPU数据</string>
 	<string name="dlg_send_title">发送CPU数据通过…</string>
 	<string name="menu_prefs">选项</string>

@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU Control</string>
 	<string name="app_name_classic">CPU Control</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Niedostępne</string>
 	<string name="requested">Żądane</string>
 	<string name="current">Aktualny</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Jeżeli używasz custom ROM lub jeśli sądzisz że 
           twój telefon wspiera skalowanie częstotliwości, wyślij dane swojego CPU aby 
           dodać wsparcie dla twojego telefonu.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Wyślij dane CPU</string>
 	<string name="dlg_send_title">Wyślij dane CPU za pomocą…</string>
 	<string name="menu_prefs">Ustawienia</string>

@@ -20,21 +20,28 @@
 		android:label="@string/app_name_classic" >
 		<activity
 			android:name="es.fraggel.cpucontrol.activity.MainActivity"
-			android:label="@string/app_name_classic" >
+			android:label="@string/menu_prefs" >
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 
 				<category android:name="android.intent.category.LAUNCHER" />
 			</intent-filter>
 		</activity>
+        <activity
+            android:name="es.fraggel.cpucontrol.activity.CPUActivity"
+            android:icon="@drawable/ic_launchercpu"
+            android:exported="true" />
 		<activity
 			android:name="es.fraggel.cpucontrol.activity.StatsActivity"
+            android:icon="@drawable/ic_launchercpu"
 			android:exported="false" />
 		<activity
 			android:name="es.fraggel.cpucontrol.activity.AboutActivity"
+            android:icon="@drawable/ic_launchercpu"
 			android:exported="false" />
 		<activity
 			android:name="es.fraggel.cpucontrol.activity.PreferencesActivity"
+            android:icon="@drawable/ic_launchercpu"
 			android:exported="false" />
 
 		<service android:name="es.fraggel.cpucontrol.service.BootService" />

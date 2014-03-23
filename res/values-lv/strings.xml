@@ -3,7 +3,7 @@
 
 	<string name="app_name">procesora kontrole</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nepieejams</string>
 	<string name="requested">Pieprasīts</string>
 	<string name="current">Pašlaik</string>
@@ -21,7 +21,7 @@ Sūtīt</string>
 	<string name="dlg_noroot_body">Tev jābūt iesakņojušamies lai lietotu šo applikāciju :D</string>
 	<string name="dlg_nofs_title">Tavai ierīcei pietrūkst frekvences mērogošana</string>
 	
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Aizsūtīt procesora datus</string>
 	<string name="dlg_send_title">Sūtīt procesora datus ar…</string>
 	<string name="menu_prefs">Iespējas</string>

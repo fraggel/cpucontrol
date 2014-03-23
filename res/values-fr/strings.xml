@@ -3,7 +3,7 @@
 
 	
 	<string name="app_name_classic">CPU Control CLASSIQUE</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Indisponible</string>
 	<string name="requested">Demandé</string>
 	<string name="current">Actuel</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Si vous utiliser une ROM modifié ou si vous pensez
 		que votre appareil supporte les changements de fréquence, envoyez vos données CPU
 		pour pouvoir supporter votre téléphone.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Envoyer données CPU</string>
 	<string name="dlg_send_title">Envoyer données CPU avec…</string>
 	<string name="menu_prefs">Paramètres</string>

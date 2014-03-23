@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU vezérlés</string>
 	<string name="app_name_classic">CPU vezérlő CLASSIC</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nem érhető el</string>
 	<string name="requested">Választott</string>
 	<string name="current">Jelenlegi</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Root jog szükséges a program használatához.</string>
 	<string name="dlg_nofs_title">Az Ön eszköze nem képes az órajel skálázására.</string>
 	<string name="dlg_nofs_body">Ha főzött ROM-ot futtat vagy ha úgygondolja, hogy a készüléke képes az órajel skálázására, kérem küldje el CPU-ja adatait, hogy készüléke is támogatást nyerhessen.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">CPU adatok küldése</string>
 	<string name="dlg_send_title">CPU adatok küldése…</string>
 	<string name="menu_prefs">Beállítások</string>

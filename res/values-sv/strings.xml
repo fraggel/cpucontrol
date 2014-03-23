@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU Kontroll</string>
 	<string name="app_name_classic">CPU Kontroll CLASSIC</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Ej tillgänglig</string>
 	<string name="requested">Begärd</string>
 	<string name="current">Aktuell</string>
@@ -23,7 +23,7 @@
 	<string name="dlg_nofs_body">Om du använder en custom ROM eller tror att
 		din telefon bör stöda frekvensskalning så skicka in CPU information för
 		att lägga till stöd för din telefon.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Skicka CPU data</string>
 	<string name="dlg_send_title">Skicka CPU data med…</string>
 	<string name="menu_prefs">Inställningar</string>

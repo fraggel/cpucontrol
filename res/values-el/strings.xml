@@ -3,7 +3,7 @@
 
 	<string name="app_name">Διαχείριση CPU </string>
 	<string name="app_name_classic">Κλασική έκδοση του  CPU Control</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Μη διαθέσιμο</string>
 	<string name="requested">Ζητήθηκε</string>
 	<string name="current">Τρέχων</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Αν έχετε μια custom ROM ή πιστεύετε ότι
 		η συσκευή σας υποστηρίζει κλιμάκωση συχνότητας, στείλτε τα δεδομένα της CPU ώστε να
 		προσθέσω τη συσκεύσας στις υποστηριζόμενες.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Αποστολή δεδομένων CPU</string>
 	<string name="dlg_send_title">Αποστολή δεδομένων CPU με…</string>
 	<string name="menu_prefs">Ρυθμίσεις</string>

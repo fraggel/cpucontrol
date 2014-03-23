@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Ikke tilgængelig</string>
 	<string name="requested">Ønsket</string>
 	<string name="current">Nuværende</string>
@@ -24,7 +24,7 @@
 	<string name="dlg_nofs_body">Hvis du bruger en Custom ROM eller du tror
 		din telefon understøtter frekvens skalering, send dine CPU data så vi
 		kan tilføje din telefon.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	
 	<string name="dlg_send_title">Send CPU data med…</string>
 	<string name="menu_prefs">Indstillinger</string>

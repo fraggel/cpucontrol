@@ -1,7 +1,7 @@
 package es.fraggel.cpucontrol.extra;
 
 public class Constants {
-	public final static String APP_TAG = "androidDreamCPU";
+	public final static String APP_TAG = "JiayuCPU";
 	public final static String PREF_MIN_FREQ = "scaling_min_freq";
 	public final static String PREF_MAX_FREQ = "scaling_max_freq";
 	public final static String PREF_GOVERNOR = "scaling_governor";

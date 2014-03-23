@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nedostupné</string>
 	<string name="requested">Požadované</string>
 	<string name="current">Aktuálne</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Ak používate upravenú ROM, alebo si myslíte,
 		že Váš telefón podporuje upravovanie frekvencie, odošlite Vaše
 		údaje o procesore a pridajte tak podporu pre Váš telefón.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Odoslať údaje o procesore</string>
 	<string name="dlg_send_title">Odoslať údaje o procesore cez…</string>
 	<string name="menu_prefs">Nastavenia</string>

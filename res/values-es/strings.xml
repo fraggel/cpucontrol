@@ -3,7 +3,7 @@
 
 	
 	<string name="app_name_classic">Control de CPU</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">No disponible</string>
 	<string name="requested">Requerido</string>
 	<string name="current">Actual</string>
@@ -21,7 +21,7 @@
 	<string name="dlg_nofs_title">Su dispositivo parece no soportar escalado de frecuencia
 </string>
 	<string name="dlg_nofs_body">Si estas usando un ROM customizado o crees que tu teléfono soporta escalado de frecuencia, envía la información de tu CPU para agregar soporte a tu teléfono.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Enviar datos del CPU</string>
 	<string name="dlg_send_title">Enviar datos del CPU con…</string>
 	<string name="menu_prefs">Ajustes</string>

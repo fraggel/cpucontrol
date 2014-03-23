@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Недоступно</string>
 	<string name="requested">Бажані</string>
 	<string name="current">Поточні</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Якщо ви користуєтеся нештатною прошивкою або певні, 
 що ваш телефон підтримує зміну частоти, надішліть дані вашого 
 процесора, щоб додати підтримку і вашого пристрою.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Надіслати дані процесора</string>
 	<string name="dlg_send_title">Надіслати дані з…</string>
 	<string name="menu_prefs">Параметри</string>

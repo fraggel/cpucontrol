@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU kontrola bez muke</string>
 	<string name="app_name_classic">CPU kontrola bez muke KLASIČNA</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nedostupno</string>
 	<string name="requested">Zatraženo</string>
 	<string name="current">Trenutno</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Ako koristite poseban ROM ili ako mislite da vaš telefon podržava skaliranje frekvencije, pošaljite vaše CPU podatke kako bi dodali podršku za vaš telefon.
 
 </string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Pošaljite CPU podatke</string>
 	<string name="dlg_send_title">Pošaljite CPU podatke sa...</string>
 	<string name="menu_prefs">Postavke</string>

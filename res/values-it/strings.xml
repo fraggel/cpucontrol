@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Abbreviato per ragioni di spazio sullo schermo</string>
 	<string name="requested">Desiderata</string>
 	<string name="current">Attuale</string>
@@ -23,7 +23,7 @@
 	<string name="dlg_nofs_body">Se stai usando una ROM "cucinata" o se pensi che il
 		tuo kernel supporti il cambio delle frequenze, invia i dati della CPU
 		per aggiungere il supporto al tuo telefono.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Invia dati CPU</string>
 	<string name="dlg_send_title">Invia dati CPU con…</string>
 	<string name="menu_prefs">Impostazioni</string>

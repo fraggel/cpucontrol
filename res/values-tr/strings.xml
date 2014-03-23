@@ -3,7 +3,7 @@
 
 	
 	<string name="app_name_classic">CPU Control KLASİK</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Geçerli değil</string>
 	<string name="requested">Talep Edilen</string>
 	<string name="current">Şimdiki</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Uygulamanın kullanılabilmesi için cihazınızda root işleminin yapılmış olması gerekmektedir</string>
 	<string name="dlg_nofs_title">Cihazınızda frekans ölçekleme eksikliği varmış gibi görünüyor</string>
 	<string name="dlg_nofs_body">Telefonunuzda cihazınızla gelmeyen özel bir ROM varsa ya da telefonunuzun frekans ölçeklemeyi desteklediğini düşünüyorsanız, telefonunuz için destek sağlanması adına CPU bilgilerinizi gönderin</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">CPU bilgilerini gönder</string>
 	<string name="dlg_send_title">CPU bilgilerini bununla birlikte gönder…</string>
 	<string name="menu_prefs">Ayarlar</string>

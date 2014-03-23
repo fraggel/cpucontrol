@@ -1,7 +1,7 @@
 package es.fraggel.cpucontrol.extra;
 
 import es.fraggel.cpucontrol.R;
-import es.fraggel.cpucontrol.activity.MainActivity;
+import es.fraggel.cpucontrol.activity.CPUActivity;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
@@ -570,7 +570,7 @@ public class SysUtils {
 		String contentTitle = title;
 		String contentText = msg;
 
-		Intent notificationIntent = new Intent(ctx, MainActivity.class);
+		Intent notificationIntent = new Intent(ctx, CPUActivity.class);
 		PendingIntent contentIntent = PendingIntent.getActivity(ctx, 0, notificationIntent, Intent.FLAG_FROM_BACKGROUND);
 
 		Notification notification = new Notification(R.drawable.ic_notification, menuText, System.currentTimeMillis());

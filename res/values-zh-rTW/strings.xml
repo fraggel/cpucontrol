@@ -3,7 +3,7 @@
 
 	<string name="app_name">簡潔CPU控制</string>
 	<string name="app_name_classic">CPU Control</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">不可用</string>
 	<string name="requested">已請求</string>
 	<string name="current">當前</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">必須ROOT才能使用該軟件.</string>
 	<string name="dlg_nofs_title">的設備暫時無法獲取CPU頻率</string>
 	<string name="dlg_nofs_body">如果你正在使用一個第三方ROM或者你的ROM能夠獲取CPU頻率 請點擊菜單中的“發送CPU數據”以便添加支持你的手機型號.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">發送CPU數據</string>
 	<string name="dlg_send_title">發送CPU數據通過…</string>
 	<string name="menu_prefs">設定值</string>

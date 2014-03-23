@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU kontrol</string>
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Utilgjengelig</string>
 	<string name="requested">Ønsket</string>
 	<string name="current">Nåværende</string>
@@ -22,7 +22,7 @@
 	<string name="dlg_nofs_body">Dersom du bruker en coustom ROM eller du tror at
 enheten din støtter frekvens styring, send CPU data slik at vi
  kan legge til støtte for enheten din</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	
 	<string name="dlg_send_title">Send CPU data med…</string>
 	<string name="menu_prefs">Instillinger</string>

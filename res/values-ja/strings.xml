@@ -3,7 +3,7 @@
 
 	
 	
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">利用不可</string>
 	<string name="requested">設定値</string>
 	<string name="current">現在値</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">このアプリを使用するには、root化済みである必要があります。</string>
 	<string name="dlg_nofs_title">あなたの端末は動作クロック値の変更に対応していないように思われます。</string>
 	<string name="dlg_nofs_body">カスタムROMを使用していたり、端末が動作クロック値の変更に対応していると考えられる場合は、サポートを追加するためにCPU情報を送信してください。</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">CPU情報を送信</string>
 	<string name="dlg_send_title">CPU情報を送信…</string>
 	<string name="menu_prefs">設定</string>

@@ -3,7 +3,7 @@
 
 	<string name="app_name">CPU Kontrola</string>
 	<string name="app_name_classic">KLASIČNI  Control</string>
-	<!-- MainActivity -->
+	<!-- CPUActivity -->
 	<string name="unavailable">Nedostupno</string>
 	<string name="requested">Zatraženo</string>
 	<string name="current">Trenutno</string>
@@ -20,7 +20,7 @@
 	<string name="dlg_noroot_body">Uređaj mora biti rootovan da biste koristili ovu aplikaciju</string>
 	<string name="dlg_nofs_title">Vaš uređaj izgleda ne podržava skaliranje frekvencije</string>
 	<string name="dlg_nofs_body">Ako koristiš drugi ROM ili misliš da tvoj uređaj podržava skaliranje frekvencije, pošaljite podatke o Vašem procesoru da bismo dodali podršku za Vaš uređaj.</string>
-	<!-- MainActivity - Menu -->
+	<!-- CPUActivity - Menu -->
 	<string name="menu_send">Pošalji podatke o procesoru</string>
 	<string name="dlg_send_title">Pošalji podatke o procesoru sa…</string>
 	<string name="menu_prefs">Podešavanja</string>

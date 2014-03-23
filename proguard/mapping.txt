@@ -41,7 +41,7 @@ es.fraggel.cpucontrol.activity.AboutActivity -> es.fraggel.cpucontrol.activity.A
 es.fraggel.cpucontrol.activity.AboutActivity$1 -> es.fraggel.cpucontrol.activity.a:
     es.fraggel.cpucontrol.activity.AboutActivity this$0 -> a
     118:120:void onClick(android.view.View) -> onClick
-es.fraggel.cpucontrol.activity.MainActivity -> es.fraggel.cpucontrol.activity.MainActivity:
+es.fraggel.cpucontrol.activity.CPUActivity -> es.fraggel.cpucontrol.activity.CPUActivity:
     android.widget.Button mBtnApply -> a
     android.widget.Button mBtnExit -> b
     android.widget.Spinner mSpnMinFreq -> c
@@ -58,31 +58,31 @@ es.fraggel.cpucontrol.activity.MainActivity -> es.fraggel.cpucontrol.activity.Ma
     293:313:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
     318:348:void prepareAndSendEmail() -> a
     374:375:void displayAboutDialog() -> b
-    35:35:android.widget.Spinner access$000(es.fraggel.cpucontrol.activity.MainActivity) -> a
-    35:35:android.widget.Spinner access$100(es.fraggel.cpucontrol.activity.MainActivity) -> b
-    35:35:android.widget.Spinner access$200(es.fraggel.cpucontrol.activity.MainActivity) -> c
-    35:35:android.widget.Spinner access$300(es.fraggel.cpucontrol.activity.MainActivity) -> d
-es.fraggel.cpucontrol.activity.MainActivity$1 -> es.fraggel.cpucontrol.activity.b:
-    es.fraggel.cpucontrol.activity.MainActivity this$0 -> a
+    35:35:android.widget.Spinner access$000(es.fraggel.cpucontrol.activity.CPUActivity) -> a
+    35:35:android.widget.Spinner access$100(es.fraggel.cpucontrol.activity.CPUActivity) -> b
+    35:35:android.widget.Spinner access$200(es.fraggel.cpucontrol.activity.CPUActivity) -> c
+    35:35:android.widget.Spinner access$300(es.fraggel.cpucontrol.activity.CPUActivity) -> d
+es.fraggel.cpucontrol.activity.CPUActivity$1 -> es.fraggel.cpucontrol.activity.b:
+    es.fraggel.cpucontrol.activity.CPUActivity this$0 -> a
     62:63:void onClick(android.content.DialogInterface,int) -> onClick
-es.fraggel.cpucontrol.activity.MainActivity$2 -> es.fraggel.cpucontrol.activity.c:
-    es.fraggel.cpucontrol.activity.MainActivity this$0 -> a
+es.fraggel.cpucontrol.activity.CPUActivity$2 -> es.fraggel.cpucontrol.activity.c:
+    es.fraggel.cpucontrol.activity.CPUActivity this$0 -> a
     74:75:void onClick(android.content.DialogInterface,int) -> onClick
-es.fraggel.cpucontrol.activity.MainActivity$3 -> es.fraggel.cpucontrol.activity.d:
-    es.fraggel.cpucontrol.activity.MainActivity this$0 -> a
+es.fraggel.cpucontrol.activity.CPUActivity$3 -> es.fraggel.cpucontrol.activity.d:
+    es.fraggel.cpucontrol.activity.CPUActivity this$0 -> a
     79:81:void onClick(android.content.DialogInterface,int) -> onClick
-es.fraggel.cpucontrol.activity.MainActivity$4 -> es.fraggel.cpucontrol.activity.e:
-    es.fraggel.cpucontrol.activity.MainActivity this$0 -> a
+es.fraggel.cpucontrol.activity.CPUActivity$4 -> es.fraggel.cpucontrol.activity.e:
+    es.fraggel.cpucontrol.activity.CPUActivity this$0 -> a
     106:107:void onClick(android.view.View) -> onClick
-es.fraggel.cpucontrol.activity.MainActivity$5 -> es.fraggel.cpucontrol.activity.f:
+es.fraggel.cpucontrol.activity.CPUActivity$5 -> es.fraggel.cpucontrol.activity.f:
     android.content.SharedPreferences val$prefs -> a
-    es.fraggel.cpucontrol.activity.MainActivity this$0 -> b
+    es.fraggel.cpucontrol.activity.CPUActivity this$0 -> b
     115:118:void onCheckedChanged(android.widget.CompoundButton,boolean) -> onCheckedChanged
-es.fraggel.cpucontrol.activity.MainActivity$6 -> es.fraggel.cpucontrol.activity.g:
-    es.fraggel.cpucontrol.activity.MainActivity this$0 -> a
+es.fraggel.cpucontrol.activity.CPUActivity$6 -> es.fraggel.cpucontrol.activity.g:
+    es.fraggel.cpucontrol.activity.CPUActivity this$0 -> a
     203:276:void onClick(android.view.View) -> onClick
-es.fraggel.cpucontrol.activity.MainActivity$6$1 -> es.fraggel.cpucontrol.activity.h:
-    es.fraggel.cpucontrol.activity.MainActivity$6 this$1 -> a
+es.fraggel.cpucontrol.activity.CPUActivity$6$1 -> es.fraggel.cpucontrol.activity.h:
+    es.fraggel.cpucontrol.activity.CPUActivity$6 this$1 -> a
     205:274:void run() -> run
 es.fraggel.cpucontrol.activity.PreferencesActivity -> es.fraggel.cpucontrol.activity.PreferencesActivity:
     android.preference.EditTextPreference prefPattern -> a
