@@ -99,5 +99,6 @@ www.thisiswhatwedo.com</string>
 	<string name="prefs_update_curfreq">Osveži trenutnu frekvanciju</string>
 	<string name="prefs_update_curfreq_summary_on">Trenutna frekvencija će biti ažurirana periodično.</string>
 	<string name="prefs_update_curfreq_summary_off">Trenutna frekvencija će biti ažurirana kada osvežite statistike.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

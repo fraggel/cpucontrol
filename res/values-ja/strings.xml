@@ -100,5 +100,6 @@
 	<string name="prefs_update_curfreq">現在クロック値の更新</string>
 	<string name="prefs_update_curfreq_summary_on">現在クロック値が定期的に更新されます。</string>
 	<string name="prefs_update_curfreq_summary_off">統計を更新したときに、現在クロック値も更新されます。</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

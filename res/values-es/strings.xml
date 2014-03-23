@@ -102,5 +102,6 @@
 	<string name="prefs_update_curfreq">Actualizando frecuencia actual</string>
 	<string name="prefs_update_curfreq_summary_on">Las frecuencias actuales se actualizaran periodicamente</string>
 	<string name="prefs_update_curfreq_summary_off">Las frecuencias actuales se actualizaran cuandose actualicen las estadisticas</string>
+    <string name="cpu_advanced_settings">Ajustes avanzados</string>
 
 </resources>

@@ -116,5 +116,6 @@
 	<string name="prefs_update_curfreq">Ανανέωση τρέχουσας συχνότητας</string>
 	<string name="prefs_update_curfreq_summary_on">Η τρέχουσα συχνότητα θα ανανεώνεται περιοδικά.</string>
 	<string name="prefs_update_curfreq_summary_off">Η τρέχουσα συχνότητα θα ανανεώνεται κατά την ανανέωση στατιστικών.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

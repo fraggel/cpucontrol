@@ -107,5 +107,6 @@ Pokračujte, pouze pokud víte, co děláte.</string>
 	<string name="prefs_update_curfreq">Aktualizovat aktuální frekvenci</string>
 	<string name="prefs_update_curfreq_summary_on">Aktuální frekvence bude aktualizována pravidelně.</string>
 	<string name="prefs_update_curfreq_summary_off">Aktuální frekvence bude aktualizována až začne aktualizace.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

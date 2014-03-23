@@ -98,5 +98,6 @@ www.thisiswhatwedo.com</string>
 	<string name="prefs_update_curfreq">Perbarukan frekuensi saat ini</string>
 	<string name="prefs_update_curfreq_summary_on">Frekuensi ini akan diperbaharui secara berkala.</string>
 	<string name="prefs_update_curfreq_summary_off">Statistik frekuensi</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

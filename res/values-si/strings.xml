@@ -90,12 +90,7 @@
 	
 	
 	<string name="prefs_ringtone">දැනුම්දීම් නාදය</string>
-	
-	
-	
-	
-	
-	
-	
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
 
 </resources>

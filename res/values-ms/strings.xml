@@ -111,8 +111,7 @@ berlaku (skrin on, skrin off dsb)… semuanya ini tidak memberi kelebihan tambah
 	<string name="prefs_include_deep_sleep">Termasuk tidur mati</string>
 	<string name="prefs_include_deep_sleep_summary_on">Tidur mati akan dimasukkan</string>
 	<string name="prefs_include_deep_sleep_summary_off">Tidur mati akan diabaikan</string>
-	
-	
-	
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
 
 </resources>

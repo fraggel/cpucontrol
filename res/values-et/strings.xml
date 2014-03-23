@@ -79,8 +79,9 @@ Regulaatorid on erinevad skaalad CPU sagedusest.
 </string>
 	<string name="about_faq_profiles_Q">Q: Kas sa plaanid lisada profiile? 
 Ma tahaksin valida erinevate profiilide vahel ,kui mu ekraan on väljas!</string>
-	
-	<!-- Widget -->
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
+    <!-- Widget -->
 	
 	<!-- Preferences -->
 	

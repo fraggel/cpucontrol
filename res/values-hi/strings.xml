@@ -56,17 +56,10 @@
 	<string name="tab_license">अधिकार</string>
 	<string name="about_info_donate">दान</string>
 	<string name="about_info_version">संस्करण: %1$s</string>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<!-- Widget -->
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
+
+    <!-- Widget -->
 	
 	<!-- Preferences -->
 	

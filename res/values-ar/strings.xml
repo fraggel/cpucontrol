@@ -115,5 +115,6 @@ CPU الخاص لمتابعة أثناء تغيير الترددات. \ محات
 	<string name="prefs_update_curfreq">تحديث التردد الحالى</string>
 	<string name="prefs_update_curfreq_summary_on">سيتم تحديث التردد الحالى تلقائيا</string>
 	<string name="prefs_update_curfreq_summary_off">سيتم تحديث التردد مع تحديث الحالة</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

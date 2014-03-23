@@ -91,7 +91,8 @@
 		alt dette uden egentlig fordel.</string>
 	<!-- Widget -->
 	<string name="wdg_updating">Opdater widget..</string>
-	<!-- Preferences -->
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+    <!-- Preferences -->
 	
 	
 	

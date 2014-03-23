@@ -116,5 +116,6 @@ www.thisiswhatwedo.com</string>
 	<string name="prefs_update_curfreq">Оновити поточну частоту</string>
 	<string name="prefs_update_curfreq_summary_on">Поточна частота буде оновлюватися періодично.</string>
 	<string name="prefs_update_curfreq_summary_off">Поточна частота оновлюватиметься при оновленні статистики.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

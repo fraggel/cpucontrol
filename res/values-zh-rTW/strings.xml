@@ -100,5 +100,6 @@
 	<string name="prefs_update_curfreq">更新目前頻率</string>
 	<string name="prefs_update_curfreq_summary_on">現時的頻率將定期更新</string>
 	<string name="prefs_update_curfreq_summary_off">當重新整理狀態時現有的頻率也將被更新.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

@@ -41,8 +41,9 @@ Sūtīt</string>
 	<!-- Errors -->
 	<string name="err_need_root">Šī aplikācija pieprasa saknes privilēģijas lai strādātu. (hr4 esi admins ;D)</string>
 	<string name="err_update_failed">Kļūda: vai jūs atļāvāt SuperUser atļaujas(privilēģijas)</string>
-	
-	<!-- Success -->
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
+    <!-- Success -->
 	
 	<!-- BootService safety valves -->
 	

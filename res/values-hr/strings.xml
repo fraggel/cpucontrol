@@ -116,5 +116,6 @@
 	<string name="prefs_update_curfreq">Osvježi trenutnu frekvenciju</string>
 	<string name="prefs_update_curfreq_summary_on">Trenutna će frekvencija biti povremeno osviježena.</string>
 	<string name="prefs_update_curfreq_summary_off">Trenutna će frekvencija biti ažurirana prilikom osvježivanja statistike.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

@@ -112,8 +112,7 @@ Alt dette uten og virkelig tjene noe på det.</string>
 	<string name="prefs_include_deep_sleep">Inkluder deep sleep</string>
 	<string name="prefs_include_deep_sleep_summary_on">Deep sleep vil bli inkludert</string>
 	<string name="prefs_include_deep_sleep_summary_off">Deep sleep vil bli ignorert</string>
-	
-	
-	
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
 
 </resources>

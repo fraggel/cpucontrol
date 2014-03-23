@@ -116,5 +116,6 @@
 	<string name="prefs_update_curfreq">Odśwież aktualną częstotliwość</string>
 	<string name="prefs_update_curfreq_summary_on">Aktualna częstotliwość będzie aktualizowana okresowo.</string>
 	<string name="prefs_update_curfreq_summary_off">Aktualna częstotliwość będzie aktualizowana przy odświeżaniu statystyk.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

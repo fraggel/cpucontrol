@@ -109,5 +109,6 @@ http://foro.jiayu.es</string>
 	<string name="prefs_update_curfreq">بروزرسانی فرکانس فعلی</string>
 	<string name="prefs_update_curfreq_summary_on">فرکانس کنونی در فاصله های معین بروزرسانی خواهد شد.</string>
 	<string name="prefs_update_curfreq_summary_off">فرکانس کنونی هنگام بارگذاری دوباره آمار بروزرسانی خواهد شد.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

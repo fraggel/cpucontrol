@@ -114,5 +114,6 @@ http://forum.xda-developers.com/showthread.php?t=911917</string>
 	<string name="prefs_update_curfreq">მიმდინარე სიხშირის განახლება</string>
 	<string name="prefs_update_curfreq_summary_on">მიმდინარე სიხშირე პერიოდულად ნახლდება.</string>
 	<string name="prefs_update_curfreq_summary_off">მიმდინარე სიხშირე განახლდება სტატისტიკასთან ერთად.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

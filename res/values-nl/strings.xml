@@ -99,5 +99,6 @@
 	<string name="prefs_update_curfreq">Vernieuw huidige frequentie</string>
 	<string name="prefs_update_curfreq_summary_on">Huidige frequentie zal periodiek worden geupdate</string>
 	<string name="prefs_update_curfreq_summary_off">Huidige frequentie zal worden geupdate bij het verversen van de stats.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

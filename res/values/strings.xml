@@ -116,5 +116,6 @@
 	<string name="prefs_update_curfreq">Refresh current frequency</string>
 	<string name="prefs_update_curfreq_summary_on">Current frequency will be updated periodically.</string>
 	<string name="prefs_update_curfreq_summary_off">Current frequency will be updated when refreshing stats.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

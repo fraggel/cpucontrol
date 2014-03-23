@@ -89,13 +89,7 @@
 	
 	
 	<string name="prefs_vibrate_pattern_message">Digite um ritmo de vibração em milissegundos (ex.: 0,50, 100,50, 100) ou deixe esse campo em branco para utilizar o ritmo padrão de vibração. </string>
-	
-	
-	
-	
-	
-	
-	
-	
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
 
 </resources>

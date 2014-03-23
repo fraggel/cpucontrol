@@ -112,5 +112,6 @@ etmek için daha fazla çalışması, gerçek yararını azaltması demek.</stri
 	<string name="prefs_update_curfreq">Geçerli frekansı yenile</string>
 	<string name="prefs_update_curfreq_summary_on">Geçerli frekans düzenli olarak güncellenecektir.</string>
 	<string name="prefs_update_curfreq_summary_off">Geçerli frekans istatistikler yenilendiğinde güncellenecektir.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

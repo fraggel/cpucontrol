@@ -1,8 +1,11 @@
 package es.fraggel.cpucontrol.activity;
 
 import android.app.Activity;
+import android.app.NotificationManager;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.PowerManager;
 import android.view.View;
 import android.widget.Button;
 
@@ -31,6 +34,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
         cpucontrol=(Button) findViewById(R.id.cpuControl);
         cpucontrol.setOnClickListener(this);
+        Button b=(Button) findViewById(R.id.button);
+        b.setOnClickListener(this);
 	}
 
     @Override
@@ -39,6 +44,13 @@ public class MainActivity extends Activity implements View.OnClickListener{
         if(view.getId()==R.id.cpuControl){
             it=new Intent(this, CPUActivity.class);
             startActivity(it);
+        }
+        if(view.getId()==R.id.button){
+           /* PowerManager pm = (PowerManager) getSystemService(Context.POWER_SERVICE);
+            PowerManager.WakeLock wl = pm.newWakeLock(PowerManager.SCREEN_DIM_WAKE_LOCK, "My Tag");
+            wl.acquire();*/
+            //wl.release();
+            //android.provider.Settings.System.putInt(getContentResolver(), "notification_light_pulse", 0);
         }
     }
 }

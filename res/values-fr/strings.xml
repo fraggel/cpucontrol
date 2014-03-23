@@ -116,5 +116,6 @@ sélectionner un profil différent quand mon écran est éteint !</string>
 	<string name="prefs_update_curfreq">Rafraîchir la fréquence actuelle</string>
 	<string name="prefs_update_curfreq_summary_on">La fréquence actuelle sera mise à jour périodiquement.</string>
 	<string name="prefs_update_curfreq_summary_off">La fréquence actuelle sera mise à jour lors de l\'actualisation des stats.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

@@ -36,8 +36,9 @@
 	<string name="stats_frequency">Dažnio reikšmė</string>
 	<string name="stats_perc">Viso</string>
 	<string name="stats_perc5">Pask. 5 sekundžių</string>
-	
-	<!-- Errors -->
+    <string name="cpu_advanced_settings">Advanced Settings</string>
+
+    <!-- Errors -->
 	
 	
 	

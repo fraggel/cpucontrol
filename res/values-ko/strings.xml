@@ -116,5 +116,6 @@ www.thisiswhatwedo.com</string>
 	<string name="prefs_update_curfreq">현재 진동수 새로고침</string>
 	<string name="prefs_update_curfreq_summary_on">현재 진동수가 주기적으로 업데이트 됩니다.</string>
 	<string name="prefs_update_curfreq_summary_off">통계를 새로고침할 때 현재 진동수가 업데이트 됩니다.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

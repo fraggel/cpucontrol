@@ -116,5 +116,6 @@ amb més freqüència, comprovar si quelcom està passant
 	<string name="prefs_update_curfreq">Refresca la freqüència actual</string>
 	<string name="prefs_update_curfreq_summary_on">La freqüència actual s\'actualitzarà periòdicament</string>
 	<string name="prefs_update_curfreq_summary_off">La freqüència actual s\'actualitzarà en refrescar les estadístiques.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

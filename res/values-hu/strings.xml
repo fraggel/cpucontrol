@@ -111,5 +111,6 @@ a program szerzőjével email-en vagy a honlapon keresztül.</string>
 	<string name="prefs_update_curfreq">Jelenlegi frekvencia frissitése</string>
 	<string name="prefs_update_curfreq_summary_on">Jelenlegi frekvencia periodikusan fog frissülni.</string>
 	<string name="prefs_update_curfreq_summary_off">Jelenlegi frekvencia, akkor fog frissülni, amikor a statisztikát frissíted.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>

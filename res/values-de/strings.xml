@@ -101,5 +101,6 @@
 	<string name="prefs_update_curfreq">Momentane Taktfrequenz aktualisieren</string>
 	<string name="prefs_update_curfreq_summary_on">Die aktuelle Taktfrequenz wird regelmäßig aktualisiert.</string>
 	<string name="prefs_update_curfreq_summary_off">Die Taktfrequenz wird bei Aktualisierung der Statistiken aktualisiert.</string>
+    <string name="cpu_advanced_settings">Advanced Settings</string>
 
 </resources>
