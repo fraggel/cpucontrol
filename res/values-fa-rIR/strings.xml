@@ -110,5 +110,8 @@ http://foro.jiayu.es</string>
 	<string name="prefs_update_curfreq_summary_on">فرکانس کنونی در فاصله های معین بروزرسانی خواهد شد.</string>
 	<string name="prefs_update_curfreq_summary_off">فرکانس کنونی هنگام بارگذاری دوباره آمار بروزرسانی خواهد شد.</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>

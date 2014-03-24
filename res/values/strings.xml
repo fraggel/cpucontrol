@@ -117,5 +117,8 @@
 	<string name="prefs_update_curfreq_summary_on">Current frequency will be updated periodically.</string>
 	<string name="prefs_update_curfreq_summary_off">Current frequency will be updated when refreshing stats.</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>

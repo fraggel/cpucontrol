@@ -80,6 +80,9 @@ Regulaatorid on erinevad skaalad CPU sagedusest.
 	<string name="about_faq_profiles_Q">Q: Kas sa plaanid lisada profiile? 
 Ma tahaksin valida erinevate profiilide vahel ,kui mu ekraan on väljas!</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
     <!-- Widget -->
 	

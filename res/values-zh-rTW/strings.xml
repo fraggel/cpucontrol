@@ -101,5 +101,8 @@
 	<string name="prefs_update_curfreq_summary_on">現時的頻率將定期更新</string>
 	<string name="prefs_update_curfreq_summary_off">當重新整理狀態時現有的頻率也將被更新.</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>

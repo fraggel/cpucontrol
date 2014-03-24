@@ -100,7 +100,7 @@ public class CPUActivity extends Activity {
 			 * Set event handlers
 			 */
 
-			final SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+			final SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 			mCkbApplyOnBoot.setChecked(prefs.getBoolean(Constants.PREF_APPLY_ON_BOOT, false));
 
 			mCkbApplyOnBoot.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
@@ -228,7 +228,7 @@ public class CPUActivity extends Activity {
 							/*
 							 * First thing to do: set dirty flag.
 							 */
-							SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+							SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 							SharedPreferences.Editor editor = prefs.edit();
 							editor.putBoolean(Constants.CHECK_SHUTDOWN_OK, false);
 							editor.putLong(Constants.LAST_UPTIME, SystemClock.uptimeMillis());

@@ -42,6 +42,9 @@ Sūtīt</string>
 	<string name="err_need_root">Šī aplikācija pieprasa saknes privilēģijas lai strādātu. (hr4 esi admins ;D)</string>
 	<string name="err_update_failed">Kļūda: vai jūs atļāvāt SuperUser atļaujas(privilēģijas)</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
     <!-- Success -->
 	

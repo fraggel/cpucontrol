@@ -165,7 +165,7 @@ public class StatsActivity extends ListActivity {
 	protected void onCreate(Bundle savedInstanceState) {
         this.setTitle(R.string.stats_title);
 		theme = Theme.applyTo(this);
-		preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+		preferences = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.stats);

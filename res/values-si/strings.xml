@@ -91,6 +91,9 @@
 	
 	<string name="prefs_ringtone">දැනුම්දීම් නාදය</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 
 </resources>

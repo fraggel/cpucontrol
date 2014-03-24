@@ -113,6 +113,9 @@ Alt dette uten og virkelig tjene noe på det.</string>
 	<string name="prefs_include_deep_sleep_summary_on">Deep sleep vil bli inkludert</string>
 	<string name="prefs_include_deep_sleep_summary_off">Deep sleep vil bli ignorert</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 
 </resources>

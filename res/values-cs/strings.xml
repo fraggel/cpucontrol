@@ -108,5 +108,8 @@ Pokračujte, pouze pokud víte, co děláte.</string>
 	<string name="prefs_update_curfreq_summary_on">Aktuální frekvence bude aktualizována pravidelně.</string>
 	<string name="prefs_update_curfreq_summary_off">Aktuální frekvence bude aktualizována až začne aktualizace.</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>

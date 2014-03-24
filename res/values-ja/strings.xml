@@ -101,5 +101,8 @@
 	<string name="prefs_update_curfreq_summary_on">現在クロック値が定期的に更新されます。</string>
 	<string name="prefs_update_curfreq_summary_off">統計を更新したときに、現在クロック値も更新されます。</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>

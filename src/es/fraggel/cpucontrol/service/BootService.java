@@ -33,7 +33,7 @@ public class BootService extends Service {
 		super.onCreate();
 		Log.d(Constants.APP_TAG, "boot service started");
 		if (SysUtils.isRooted() && SysUtils.hasSysfs()) {
-			SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+			SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 
 			/*
 			 * Read user setting: are settings to be applied?
@@ -128,8 +128,8 @@ public class BootService extends Service {
 		File mustShow = new File(Constants.LAUNCHER_ICON_STATUS_SHOW);
 		if (mustShow.exists() || mustHide.exists()) {
 			Log.d(Constants.APP_TAG, "special files detected: show=" + mustShow.exists() + ", hide=" + mustHide.exists());
-			ComponentName componentName = new ComponentName(getApplicationContext(), CPUActivity.class);
-			PackageManager pm = getApplicationContext().getPackageManager();
+			ComponentName componentName = new ComponentName(getBaseContext(), CPUActivity.class);
+			PackageManager pm = getBaseContext().getPackageManager();
 			if (mustShow.exists()) {
 				/*
 				 * Special "show" file exists, it takes precedence. Think of it as a

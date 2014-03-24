@@ -90,6 +90,9 @@
 	
 	<string name="prefs_vibrate_pattern_message">Digite um ritmo de vibração em milissegundos (ex.: 0,50, 100,50, 100) ou deixe esse campo em branco para utilizar o ritmo padrão de vibração. </string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 
 </resources>

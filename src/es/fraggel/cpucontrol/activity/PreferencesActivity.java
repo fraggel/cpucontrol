@@ -36,7 +36,7 @@ public class PreferencesActivity extends PreferenceActivity implements OnPrefere
 		super.onCreate(savedInstanceState);
 		addPreferencesFromResource(R.xml.preferences);
 
-		prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+		prefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 
 		prefPattern = (EditTextPreference) findPreference(Constants.PREF_VIBRATE_PATTERN);
 		prefPattern.setOnPreferenceChangeListener(this);

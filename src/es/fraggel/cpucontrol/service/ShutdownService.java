@@ -23,7 +23,7 @@ public class ShutdownService extends Service {
 	public void onStart(Intent intent, int startId) {
 		super.onCreate();
 		Log.d(Constants.APP_TAG, "shutdown service started");
-		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 		SharedPreferences.Editor editor = prefs.edit();
 		editor.putBoolean(Constants.CHECK_SHUTDOWN_OK, true);
 		/*

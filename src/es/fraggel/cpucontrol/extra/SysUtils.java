@@ -375,8 +375,8 @@ public class SysUtils {
 		if (f.exists()) {
 			return s;
 		}
-		s = "/system/xbin/su";
-		f = new File(s);
+        s = "/system/xbin/su";
+        f = new File(s);
 		if (f.exists()) {
 			return s;
 		}

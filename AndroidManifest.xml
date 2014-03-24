@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	package="es.fraggel.cpucontrol"
-	android:installLocation="internalOnly"
-
+    android:sharedUserId="android.uid.system"
 	android:versionCode="01"
 	android:versionName="1.00" >
 	<uses-sdk
@@ -13,6 +12,7 @@
 	<uses-permission android:name="android.permission.VIBRATE" />
 	<uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
     <uses-permission android:name="android.permission.WAKE_LOCK "/>
+
 	<application
 		android:allowBackup="false"
 		android:icon="@drawable/ic_launcher"
@@ -70,6 +70,13 @@
 				android:name="android.appwidget.provider"
 				android:resource="@xml/wdg_stats_provider" />
 		</receiver>
-	</application>
+        <service android:name="es.fraggel.cpucontrol.service.WakeLockService" />
+        <receiver android:name="es.fraggel.cpucontrol.broadcast.WakeLockBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
 
 </manifest>

@@ -108,5 +108,8 @@ Att lägga till profiler skulle betyda att mer minne krävs, att appen skulle be
 	<string name="prefs_update_curfreq_summary_on">Nuvarande klockfrekvens uppdateras regelbundet.</string>
 	<string name="prefs_update_curfreq_summary_off">Nuvarande klockfrekvens uppdateras när statistiken uppdateras.</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>

@@ -100,5 +100,8 @@ www.thisiswhatwedo.com</string>
 	<string name="prefs_update_curfreq_summary_on">当前频率将会定时刷新</string>
 	<string name="prefs_update_curfreq_summary_off">刷新统计信息时更新当前频率</string>
     <string name="cpu_advanced_settings">Advanced Settings</string>
+    <string name="enable_virtual_keys">Enable virtual Keys</string>
+    <string name="disable_virtual_keys">Disable virtual Keys</string>
+    <string name="wakelock_activate">Enable wakelock</string>
 
 </resources>
